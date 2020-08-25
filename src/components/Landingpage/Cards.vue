@@ -91,7 +91,7 @@
           </p>
           <div class="flex justify-center mt-16 md:mt-48 lg:mt-8 xl:mt-4">
             <a
-              href="ts3server://ts3.tf47.de"
+              href="ts3server://ts3.taskforce47.com"
               class="bg-black text-white px-3 py-1 text-xl cursor-pointer font-bold"
             >
               VERBINDEN <font-awesome-icon :icon="['fab', 'teamspeak']" />
